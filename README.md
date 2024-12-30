@@ -18,3 +18,8 @@ This project implements neural style transfer using PyTorch. The model combines 
    ```bash
    git clone https://github.com/username/image-style-transfer.git
    cd image-style-transfer
+
+2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
